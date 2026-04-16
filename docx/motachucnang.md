@@ -76,6 +76,7 @@ Sau khi hoàn tất:
 
 - Hóa đơn được lưu vào hệ thống
 - Có thể xuất hóa đơn ra file PDF
+
 3.5. Quản lý khách hàng
 
 Cho phép:
