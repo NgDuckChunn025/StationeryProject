@@ -20,7 +20,6 @@ Phần mềm quản lý cửa hàng văn phòng phẩm bằng Python
 - [Cài đặt](#-cài-đặt)
 - [Hướng dẫn sử dụng](#-hướng-dẫn-sử-dụng)
 - [Ảnh chụp màn hình](#-ảnh-chụp-màn-hình)
-- [Tác giả](#-tác-giả)
 
 ---
 
@@ -47,7 +46,7 @@ Phần mềm quản lý cửa hàng văn phòng phẩm bằng Python
 
 - **Ngôn ngữ:** Python 3.10+
 - **Giao diện:** Tkinter / CustomTkinter
-- **Cơ sở dữ liệu:** SQLite
+- **Cơ sở dữ liệu:** MySQL
 - **Xuất PDF:** ReportLab / FPDF
 - **Môi trường ảo:** venv
 
@@ -126,7 +125,7 @@ python main.py
 
 ---
 
-## 📖 Hướng Dẫn Sử Dụng
+## Hướng Dẫn Sử Dụng
 
 1. **Đăng nhập** bằng tài khoản quản trị viên
 2. Từ **cửa sổ chính**, chọn chức năng cần dùng trên thanh điều hướng
@@ -136,7 +135,7 @@ python main.py
 
 ---
 
-## 📸 Ảnh Chụp Màn Hình
+##  Ảnh Chụp Màn Hình
 
 > *(Cập nhật sau khi hoàn thiện giao diện)*
 
