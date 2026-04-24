@@ -137,5 +137,7 @@ V. Xem báo cáo và thống kê khi cần
 Hệ thống được xây dựng với các công nghệ sau:
 
 Ngôn ngữ lập trình: Python
+
 Giao diện người dùng: Tkinter / CustomTkinter
+
 Hệ quản trị cơ sở dữ liệu: MySQL
