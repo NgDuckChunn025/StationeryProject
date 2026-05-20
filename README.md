@@ -101,7 +101,7 @@ git clone https://github.com/NgDuckChunn205/StationeryProject.git
 cd StationeryProject
 ```
 
-**2. Tạo và kích hoạt môi trường ảo**
+**2. Tạo và kích hoạt môi trường ảo**n
 ```bash
 # Tạo môi trường ảo
 python -m venv .venv

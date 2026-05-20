@@ -4,8 +4,20 @@
 # ================================================================
 
 class Product:
-    def __init__(self, ma_sp=None, ma_code="", ten_sp="", ten_loai="",
-                 don_vi="", gia_nhap=0, gia_ban=0, ton_kho=0, mo_ta="", ma_loai=None):
+    def __init__(
+            self,
+            ma_sp=None,
+            ma_code="",
+            ten_sp="",
+            ten_loai="",
+            don_vi="",
+            gia_nhap=0,
+            gia_ban=0,
+            ton_kho=0,
+            mo_ta="",
+            ma_loai=None,
+            hinh_anh=""
+    ):
         self.ma_sp    = ma_sp
         self.ma_code  = ma_code
         self.ten_sp   = ten_sp
@@ -16,6 +28,7 @@ class Product:
         self.ton_kho  = int(ton_kho    or 0)
         self.mo_ta    = mo_ta
         self.ma_loai  = ma_loai
+        self.hinh_anh = hinh_anh
 
     # ---- Computed properties ----
     @property

@@ -1,4 +1,4 @@
-# backend/models/employee.py
+# backend/models/staff.py
 # ================================================================
 # Class Employee (NhanVien) — đối tượng nghiệp vụ nhân viên
 # ================================================================
